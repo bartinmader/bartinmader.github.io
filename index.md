@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my Githube Page
 
-You can use the [editor on GitHub](https://github.com/bartinmader/bartinmader.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is page is a potpourri of bits and pieces of the various interests I have, spanning from Computer Science to Middle Eastern Studies.
+
+Check out my resources on Syrian Television drama [here](https://github.com/bartinmader/bartinmader.github.io/edit/main/index.md) and witness some work in progress of projects I'm currently tinkering on.
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
